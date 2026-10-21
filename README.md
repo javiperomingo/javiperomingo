@@ -84,8 +84,8 @@
 
 | 📅 Curso | 🎓 Título | 🏫 Centro |
 |:---:|---|---|
-| 2025–2026 | Grado Superior en ASIR (2º curso) | IES LibreBits |
-| 2024–2025 | Grado Superior en ASIR (1er curso) | IES LibreBits |
+| 2025–2026 | Grado Superior en ASIR (2º curso) | IES Calderon de la Barca |
+| 2024–2025 | Grado Superior en ASIR (1er curso) | IES Calderon de la Barca |
 
 ---
 
